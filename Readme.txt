@@ -1,0 +1,2 @@
+USBWEBSERVER_PHP7+wordpress-5.4.2
+
